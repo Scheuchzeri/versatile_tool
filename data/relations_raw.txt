@@ -1,0 +1,207 @@
+Business Partner:         2695503
+                          Busch Group IT Solutions GmbH / 35614 Aßlar
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Main flag|Partner   | Partner|Name 2/First Name     |Name 1/Last Name                    |E-Mail Address                                   |Valid From|Valid To  |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|         |9016700498|24714182|Daniel                |Steinbach                           |daniel.steinbach@orbis.de                        |01.01.0001|31.12.9999|
+|         |9016933812|25459183|Dominic               |Bayer                               |dominic.bayer@orbis.de                           |01.01.0001|31.12.9999|
+|         |9017807919|25459022|Samuel                |Ikas                                |samuel.ikas@orbis.de                             |01.01.0001|31.12.9999|
+|         |9017943747|26568464|Julian                |Giersch                             |julian.giersch@orbis.de                          |01.01.0001|31.12.9999|
+|         |9018099714|24714305|Danijel               |Jovanovic                           |danijel.jovanovic@contrimo.com                   |01.01.0001|31.12.9999|
+|         |9018540196|25128807|Ludger                |Brinkhues                           |ludger.alexa@orbis.de                            |01.01.0001|31.12.9999|
+|         |9020132170|25762697|Kadidja               |Wahabou Maiga                       |kadidja.maiga@wahabou.de                         |01.01.0001|31.12.9999|
+|X        |9022860818|24912322|Dominic               |Becker                              |dominic.becker@busch.de                          |01.01.0001|31.12.9999|
+|         |9022861231|24752725|Ann-Christin          |Hohlfeldt                           |ann-christin.hohlfeldt@busch.de                  |01.01.0001|31.12.9999|
+|         |9022861358|25844266|Cem                   |Bastaci                             |cem.bastaci@sa-cs.cloud                          |01.01.0001|31.12.9999|
+|         |9026212839|26220537|Andreas               |Weinert                             |andreas.weinert@mhp.com                          |01.01.0001|31.12.9999|
+|X        |9028608922|24786996|Axel                  |Umber                               |axel.umber@busch.de                              |01.01.0001|31.12.9999|
+|         |9028741720|26390406|Jono Thomas           |Kannankara                          |jono.thomas@cbs-consulting.com                   |01.01.0001|31.12.9999|
+|X        |9028863648|25079683|Jagadeesh             |Thubati                             |Jagadeesh.Thubati@buschindia.com                 |01.01.0001|31.12.9999|
+|         |9029388755|25895083|Sven                  |Neuhoff                             |sven.neuhoff@mhp.com                             |01.01.0001|31.12.9999|
+|         |9029404175|27351425|Jochen                |Seitz                               |jochen.seitz@mhp.com                             |01.01.0001|31.12.9999|
+|X        |9029908217|24965385|Jitendra              |Chouhan                             |Jitendra.Chouhan@buschindia.com                  |01.01.0001|31.12.9999|
+|         |9030958085|24786999|Birgit                |Kettner                             |birgit.kettner@busch.de                          |01.01.0001|31.12.9999|
+|         |9031111729|25018562|Guillaume             |DUVAL                               |guillaume.duval@pfeiffer-vacuum.fr               |01.01.0001|31.12.9999|
+|         |9031111929|24824783|Johannes              |Hohmann                             |johannes.hohmann@pfeiffer-vacuum.de              |01.01.0001|31.12.9999|
+|         |9031325186|24958372|Rajendra              |Pandey                              |rajendra.pandey@gaius-hr.com                     |01.01.0001|31.12.9999|
+|         |9031631492|24714192|Simon                 |Pinkel                              |simon.pinkel@orbis.de                            |01.01.0001|31.12.9999|
+|         |9031919791|24714197|Sebastian             |Jörns                               |sebastian.joerns@orbis.de                        |01.01.0001|31.12.9999|
+|         |9032031027|24855027|Ramón Adrian          |Polanco Montilla                    |adrian.polanco@hr-path.com                       |01.01.0001|31.12.9999|
+|         |9032419727|27437348|Markus                |Fischer                             |markus.fischer@innovate-gmbh.de                  |01.01.0001|31.12.9999|
+|X        |9032754937|25063676|Aditya                |Mishra                              |aditya.mishra@buschindia.com                     |01.01.0001|31.12.9999|
+|X        |9033442179|24714200|Patrick               |Margardt                            |patrick.margardt@orbis.de                        |01.01.0001|31.12.9999|
+|         |9033442180|24714134|Stefan                |Lassahn                             |stefan.lassahn@orbis.de                          |01.01.0001|31.12.9999|
+|         |9033629133|25919014|Julien                |Ortega                              |julien.ortega@hr-path.com                        |01.01.0001|31.12.9999|
+|         |9033681959|24884371|CPI S4 C4 PROD        |Busch                               |sap-cpi-s4-c4-prod@busch.de                      |01.01.0001|31.12.9999|
+|         |9033707190|24786969|Tim                   |Rolshausen                          |tim.rolshausen@pfeiffer-vacuum.de                |01.01.0001|31.12.9999|
+|X        |9033719556|24989244|Mahendra              |Koraboina                           |mahendra.k@buschindia.com                        |01.01.0001|31.12.9999|
+|         |9033746366|24855010|Sridhar               |Chavan                              |sridhar.chavan@hr-path.com                       |01.01.0001|31.12.9999|
+|         |9033763719|26002469|Marius                |Ungemach                            |marius.ungemach@mhp.com                          |01.01.0001|31.12.9999|
+|         |9033766470|25895111|Lisa                  |Lamers                              |lisa.lamers@mhp.com                              |01.01.0001|31.12.9999|
+|         |9033880157|24714196|Aaron                 |Karch                               |aaron.karch@orbis.de                             |01.01.0001|31.12.9999|
+|         |9033910706|27299155|Marian                |Bertram                             |Marian.Bertram@mhp.com                           |01.01.0001|31.12.9999|
+|         |9033997372|27781487|Claudia               |Artmann                             |claudia.artmann@diva-e.com                       |01.01.0001|31.12.9999|
+|X        |9034047884|24714186|Torsten               |Braun                               |torsten.braun@orbis.de                           |01.01.0001|31.12.9999|
+|         |9034256259|24930172|Janine                |Salina                              |Janine.Salina@buschusa.com                       |01.01.0001|31.12.9999|
+|         |9034297846|25322744|Christian             |Hünsch                              |Christian.hunsch@busch.de                        |01.01.0001|31.12.9999|
+|         |9034325899|24682374|Navin Raj             |Munusamy                            |navin-raj.munusamy@busch.de                      |01.01.0001|31.12.9999|
+|X        |9034492543|25543321|Avinash               |Chauhan                             |avinash.chauhan@buschindia.com                   |01.01.0001|31.12.9999|
+|         |9034525584|24855004|Aditya                |Vyawahare                           |Aditya.VYAWAHARE@hr-path.com                     |01.01.0001|31.12.9999|
+|X        |9034549244|24137111|HEIKO                 |EBERLE                              |heiko.eberle@goldfish.team                       |01.01.0001|31.12.9999|
+|         |9034561650|24714311|Konstantin            |Khveshchenik                        |konstantin.khveshchenik@contrimo.com             |01.01.0001|31.12.9999|
+|         |9034680571|24787001|Nicolas               |PUCH                                |Nicolas.Puch@pfeiffer-vacuum.fr                  |01.01.0001|31.12.9999|
+|X        |9034723317|24714310|Diego                 |Duarte                              |diego.duarte@contrimo.com                        |01.01.0001|31.12.9999|
+|X        |9034850062|25235026|Kailash               |Khatri                              |kailash.khatri@buschindia.com                    |01.01.0001|31.12.9999|
+|         |9034903643|24714168|Sören                 |Rosenbohm                           |jan-soeren.rosenbohm@orbis.de                    |01.01.0001|31.12.9999|
+|X        |9034929663|24559562|kirstin               |thiecke                             |kirstin.thiecke@busch.de                         |01.01.0001|31.12.9999|
+|X        |9034929711|24559603|Tobias                |Stumpp                              |tobias.stumpp@busch.de                           |01.01.0001|31.12.9999|
+|X        |9034934690|24565455|Sébastien             |Gerland                             |sebastien.gerland@pfeiffer-vacuum.fr             |01.01.0001|31.12.9999|
+|X        |9034935834|24566802|Lukas                 |Ranft                               |lukas.ranft@pfeiffer-vacuum.de                   |01.01.0001|31.12.9999|
+|X        |9034965650|24601227|Markus                |Lenz                                |Markus.Lenz@pfeiffer-vacuum.de                   |01.01.0001|31.12.9999|
+|X        |9034965657|24601214|Sebastian             |Launer                              |sebastian.launer@busch.de                        |01.01.0001|31.12.9999|
+|X        |9034987233|24786972|Christian             |Huebel                              |christian.huebel@pfeiffer-vacuum.de              |01.01.0001|31.12.9999|
+|X        |9035041195|24682383|SAP                   |PCE                                 |sap-basis@busch.de                               |01.01.0001|31.12.9999|
+|X        |9035043888|24685240|SAP PCE               |RISE                                |sap-basis@busch.de                               |01.01.0001|31.12.9999|
+|X        |9035106415|24753390|SAP Backbone          |---TECH-USER---                     |sap-basis@busch.de                               |01.01.0001|31.12.9999|
+|X        |9035118460|24768919|Eray                  |Sari                                |eray.sari@busch.de                               |01.01.0001|31.12.9999|
+|X        |9035133974|24786963|Julia                 |Volckmer                            |Julia.Volckmer@aventho.de                        |01.01.0001|31.12.9999|
+|X        |9035133975|24786964|Marion                |Töpfer                              |marion.toepfer@busch.de                          |01.01.0001|31.12.9999|
+|X        |9035134086|24787005|Christiane            |Straub                              |Christiane.Straub@pfeiffer-vacuum.de             |01.01.0001|31.12.9999|
+|         |9035141995|24804659|Ralf                  |Decker                              |Ralf.Decker@goldfish.team                        |01.01.0001|31.12.9999|
+|X        |9035197941|24877813|Sabrina               |Weber                               |sabrina.weber@pfeiffer-vacuum.de                 |01.01.0001|31.12.9999|
+|X        |9035197951|24877806|Miriam                |Wolpensinger                        |miriam.wolpensinger@busch.de                     |01.01.0001|31.12.9999|
+|X        |9035202963|24883420|CPI ECC SF Prod       |PV                                  |sap-cpi-ecc-sf-prod@busch.de                     |01.01.0001|31.12.9999|
+|X        |9035203009|24883408|CPI ECC SF Test       |PV                                  |sap-cpi-ecc-sf-test@busch.de                     |01.01.0001|31.12.9999|
+|X        |9035203851|24884361|CPI S4 C4 DEV TEST    |Busch                               |sap-cpi-s4-c4-test@busch.de                      |01.01.0001|31.12.9999|
+|X        |9035219479|24902178|Pradeep Bhasker       |Ravi                                |pradeep.bhaskerravi@goldfish.team                |01.01.0001|31.12.9999|
+|X        |9035263200|24950164|Marcus                |Keiner                              |markus.keiner@pfeiffer-vacuum.de                 |01.01.0001|31.12.9999|
+|X        |9035272928|24961211|Martin                |Hastik                              |martin.hastik@sdworx.com                         |01.01.0001|31.12.9999|
+|X        |9035276155|24964888|Manmohan              |Baluni                              |Manmohan.baluni@goldfish.team                    |01.01.0001|31.12.9999|
+|X        |9035286620|24976503|E-Billing             |Pfeiffer Vacuum Shared Services GmbH|Kreditoren@pfeiffer-vacuum.de                    |01.01.0001|31.12.9999|
+|X        |9035298397|24989485|Kirstin               |Thiecke                             |kirstin.thiecke@busch.de                         |01.01.0001|31.12.9999|
+|X        |9035335759|25032654|CPI JUNE C4           |PV                                  |sap-cpi-june-c4@busch.de                         |01.01.0001|31.12.9999|
+|X        |9035384132|25087751|Mert                  |Dökmeci                             |mert.dokmeci@goldfish.team                       |01.01.0001|31.12.9999|
+|X        |9035390075|25094326|Sameer                |Sawant                              |sameer.sawant@pfeiffer-vacuum.de                 |01.01.0001|31.12.9999|
+|X        |9035401356|25106700|Alexander             |Becker                              |alexander.becker@bsp-mitc.de                     |01.01.0001|31.12.9999|
+|X        |9035401674|25107205|Ralf                  |Decker                              |Ralf.Decker@goldfish.team                        |01.01.0001|31.12.9999|
+|X        |9035406179|25111990|Punkaj                |Kumar                               |punkaj.kumar@buschindia.com                      |01.01.0001|31.12.9999|
+|X        |9035421769|25128348|CPI ADESSO C4         |Busch                               |sap-cpi-adesso-c4@busch.de                       |01.01.0001|31.12.9999|
+|X        |9035424756|25131630|Philipp               |Kegel                               |philipp.kegel@goldfish.team                      |01.01.0001|31.12.9999|
+|X        |9035428315|25135465|Christoph             |Lang                                |christoph.lang@pfeiffer-vacuum.com               |01.01.0001|31.12.9999|
+|X        |9035428979|25136185|Yuetwa                |Lai                                 |yuetwa.lai@goldfish.team                         |01.01.0001|31.12.9999|
+|         |9035447089|25510544|Salina                |Delecker                            |salina.delecker@pfeiffer-vacuum.com              |01.01.0001|31.12.9999|
+|X        |9035457262|25167061|Karine                |JALLEY                              |karine.jalley@pfeiffer-vacuum.com                |01.01.0001|31.12.9999|
+|X        |9035457337|25167058|Irene                 |SASSARD                             |irene.sassard@pfeiffer-vacuum.com                |01.01.0001|31.12.9999|
+|X        |9035457346|25167023|Guillaume             |ERNEST                              |guillaume.ernest@pfeiffer-vacuum.com             |01.01.0001|31.12.9999|
+|X        |9035474123|25185266|Jeremie               |MOREL                               |jeremie.morel@pfeiffer-vacuum.com                |01.01.0001|31.12.9999|
+|         |9035483777|25436420|Jan                   |Faßl                                |Jan.Fassl@pfeiffer-vacuum.com                    |01.01.0001|31.12.9999|
+|X        |9035485632|25197922|Vinay                 |Singh                               |vinay.singh@buschindia.com                       |01.01.0001|31.12.9999|
+|X        |9035489348|25201927|Maximilian            |Werner                              |Maximilian.Werner@pfeiffer-vacuum.com            |01.01.0001|31.12.9999|
+|         |9035508408|26010921|Manthan               |JOSHI                               |Manthan.JOSHI@hr-path.com                        |01.01.0001|31.12.9999|
+|         |9035553621|26002470|Levent                |Demirhan                            |levent.demirhan@mhp.com                          |01.01.0001|31.12.9999|
+|         |9035571500|25510504|Oliver                |Conradi                             |oliver.conradi@pfeiffer-vacuum.com               |01.01.0001|31.12.9999|
+|X        |9035574010|25288765|Manoj                 |Kamasani                            |manoj.kamasani@pfeiffer-vacuum.com               |01.01.0001|31.12.9999|
+|X        |9035578965|25294220|Laura                 |Morfu                               |laura.morfu@pfeiffer-vacuum.com                  |01.01.0001|31.12.9999|
+|X        |9035592590|25309003|Test                  |SuccessFactors                      |sap-cpi-s4-sftest@busch.de                       |01.01.0001|31.12.9999|
+|X        |9035592644|25309114|Prod                  |SuccessFactors                      |sap-cpi-s4-sfprd@busch.de                        |01.01.0001|31.12.9999|
+|X        |9035607730|25325961|Lucas                 |Bauermeister                        |lucas.bauermeister@pfeiffer-vacuum.com           |01.01.0001|31.12.9999|
+|X        |9035612519|25331197|Anja                  |Scheuermann                         |anja.scheuermann@pfeiffer-vacuum.com             |01.01.0001|31.12.9999|
+|X        |9035644680|25363989|Daniel                |Buchmann                            |Daniel.Buchmann@Pfeiffer-Vacuum.com              |01.01.0001|31.12.9999|
+|X        |9035682988|25401132|Inez                  |Feindler                            |inez-melanie.feindler@pfeiffer-vacuum.com        |01.01.0001|31.12.9999|
+|X        |9035705337|25428722|Lou                   |MERON                               |lou.meron@pfeiffer-vacuum.com                    |01.01.0001|31.12.9999|
+|X        |9035710581|25433825|Patrick               |CHEMINEAU                           |patric.chemineau@pfeiffer-vacuum.com             |01.01.0001|31.12.9999|
+|X        |9035749487|25476395|Peter                 |Millitzer                           |peter.millitzer@hr-path.com                      |01.01.0001|31.12.9999|
+|X        |9035804078|25534950|Giulia                |Vianello                            |giulia.vianello@pfeiffer-vacuum.com              |01.01.0001|31.12.9999|
+|X        |9035871764|25610203|Tim                   |Heck                                |Tim.Heck@goldfish.team                           |01.01.0001|31.12.9999|
+|X        |9035871849|25610242|Chaitanya             |Shinil                              |Chaitanya.Shinil@goldfish.team                   |01.01.0001|31.12.9999|
+|X        |9035969161|25718982|Nancy                 |Chillar                             |Nancy.Chillar@buschindia.com                     |01.01.0001|31.12.9999|
+|X        |9035982970|25733961|Sai Sravani           |Agganoor                            |sai.agganoor@goldfish.team                       |01.01.0001|31.12.9999|
+|X        |9036002069|25764341|Nicolas               |Farrayre                            |nicolas.farrayre@pfeiffer-vacuum.com             |01.01.0001|31.12.9999|
+|X        |9036002936|25765261|Lucas                 |Bauermeister                        |lucas.bauermeister@goldfish.team                 |01.01.0001|31.12.9999|
+|X        |9036008037|25770977|Ravi                  |Chawla                              |Ravi.Chawla@buschindia.com                       |01.01.0001|31.12.9999|
+|         |9036011666|26280270|Nela                  |Hajkova                             |Nela.HAJKOVA@hr-path.com                         |01.01.0001|31.12.9999|
+|         |9036019303|25907398|Michael               |Hofmann                             |m.hofmann@ixenso.com                             |01.01.0001|31.12.9999|
+|         |9036035945|26305919|Dominic               |Becker                              |dominic.becker@goldfish.team                     |01.01.0001|31.12.9999|
+|X        |9036049033|25817137|Heinrich              |Wirth                               |heinrich.wirth@goldfish.team                     |01.01.0001|31.12.9999|
+|X        |9036070138|25840860|Abhinandan            |Kumar                               |abhinandan.kumar@buschindia.com                  |01.01.0001|31.12.9999|
+|X        |9036074297|25845454|Adarsh                |Gupta                               |Adarsh.Gupta@buschindia.com                      |01.01.0001|31.12.9999|
+|X        |9036100192|25874555|Sankararamasubramanian|Chokkalingam                        |sankararamasubramanian.chokkalingam@goldfish.team|01.01.0001|31.12.9999|
+|X        |9036108042|25883239|Silke                 |Häger                               |silke.haeger.external@goldfish.team              |01.01.0001|31.12.9999|
+|X        |9036128926|25907417|Udo                   |Kemle                               |u.kemle@ixenso.com                               |01.01.0001|31.12.9999|
+|X        |9036131881|25910828|Ravi                  |Chawla                              |Ravi.Chawla@goldfish.team                        |01.01.0001|31.12.9999|
+|X        |9036131929|25910877|Jai                   |Prakash                             |Jai.Prakash@goldfish.team                        |01.01.0001|31.12.9999|
+|X        |9036131947|25910872|vinay                 |singh                               |vinay.singh@goldfish.team                        |01.01.0001|31.12.9999|
+|X        |9036135973|25915571|Tri                   |Le                                  |tri.le@goldfish.team                             |01.01.0001|31.12.9999|
+|X        |9036138921|25919003|Judicael              |Samekong                            |judicael.samekong@goldfish.team                  |01.01.0001|31.12.9999|
+|X        |9036138930|25919036|Thiphawan             |Rattanamanee-Arndt                  |thiphawan.rattanamanee-arndt@pfeiffer-vacuum.com |01.01.0001|31.12.9999|
+|X        |9036170721|25957186|E-billing             |E-billing                           |pfeifferde50@invoicespfeiffer.com                |01.01.0001|31.12.9999|
+|X        |9036172797|25959626|Sandra                |DASS                                |sandra.dass@pfeiffer-vacuum.com                  |01.01.0001|31.12.9999|
+|X        |9036202484|25992502|Linda                 |Rossbach                            |linda.rossbach@goldfish.team                     |01.01.0001|31.12.9999|
+|X        |9036207823|25998675|Julius                |Mayfarth                            |Julius.Mayfarth@goldfish.team                    |01.01.0001|31.12.9999|
+|         |9036212181|26240854|Fabian                |Hewer                               |fabian.hewer@orbis.de                            |01.01.0001|31.12.9999|
+|X        |9036214439|26007118|ALOK                  |Singh                               |alok.singh@goldfish.team                         |01.01.0001|31.12.9999|
+|X        |9036214467|26007133|Tarun                 |Chaudhary                           |tarun.chaudhary@goldfish.team                    |01.01.0001|31.12.9999|
+|X        |9036214479|26007170|Devendra              |Singh                               |devendra.singh@goldfish.team                     |01.01.0001|31.12.9999|
+|X        |9036225302|26019634|Alexander             |Reidisch                            |Alexander.Reidisch@goldfish.team                 |01.01.0001|31.12.9999|
+|X        |9036225762|26020165|Max                   |Korn                                |max.korn@goldfish.team                           |01.01.0001|31.12.9999|
+|X        |9036235603|26031314|Sachin                |Mohite                              |sachin.mohite@busch.de                           |01.01.0001|31.12.9999|
+|X        |9036245815|26043073|Jitendra              |Chouhan                             |jitendra.chouhan@goldfish.team                   |01.01.0001|31.12.9999|
+|X        |9036264568|26064352|CPI WebformUS10 C4    |PV                                  |sap-cpi-webformUS10-c4@busch.de                  |01.01.0001|31.12.9999|
+|X        |9036275647|26076840|Sonia                 |Lenczowska                          |sonia.lenczowska@goldfish.team                   |01.01.0001|31.12.9999|
+|X        |9036287200|26112150|Benjamin              |nordwald                            |benjamin.nordwald@goldfish.team                  |01.01.0001|31.12.9999|
+|X        |9036317931|26146505|Lisa                  |Leijon                              |lisa.leijon@pfeiffer-vacuum.com                  |01.01.0001|31.12.9999|
+|X        |9036317987|26146511|Erica                 |Thoo                                |erica.thoo@pfeiffer-vacuum.com                   |01.01.0001|31.12.9999|
+|X        |9036324627|26153909|Fabian                |Fahlbusch                           |fabian.fahlbusch@busch.de                        |01.01.0001|31.12.9999|
+|X        |9036367851|26201850|Caecilia              |Kuske                               |caecilia.kuske@busch.de                          |01.01.0001|31.12.9999|
+|X        |9036383991|26219896|Youssef               |Sellami                             |youssef.sellami@goldfish.team                    |01.01.0001|31.12.9999|
+|         |9036449108|26656804|Serhat                |Gezer                               |serhat.gezer@contrimo.com                        |01.01.0001|31.12.9999|
+|X        |9036462696|26305903|Bernhard              |Götze                               |bernhard.goetze@goldfish.team                    |01.01.0001|31.12.9999|
+|X        |9036470707|26314333|Martin                |Burmeister                          |Martin.Burmeister@pfeiffer-vacuum.com            |01.01.0001|31.12.9999|
+|X        |9036490261|26336857|Mehmet                |Seyfi                               |Mehmet.Seyfi@goldfish.team                       |01.01.0001|31.12.9999|
+|X        |9036506816|26355556|Nikita                |Ryazankin                           |nikita.ryazankin_ext@contrimo.com                |01.01.0001|31.12.9999|
+|X        |9036537209|26390391|Imran                 |Ali                                 |Imran.Ali@goldfish.team                          |01.01.0001|31.12.9999|
+|X        |9036546650|26401501|Sandro                |Sgroi                               |Sandro.Sgroi@goldfish.team                       |01.01.0001|31.12.9999|
+|X        |9036702849|26562470|Prasanta              |Ray                                 |Prasanta.Ray@goldfish.team                       |01.01.0001|31.12.9999|
+|X        |9036743862|26613285|Lukas                 |Haas                                |lukas.haas@goldfish.team                         |01.01.0001|31.12.9999|
+|X        |9036744047|26613403|Kadidja               |Wahabou                             |kadidja.wahaboumaiga@busch.de                    |01.01.0001|31.12.9999|
+|X        |9036760767|26632572|Amit                  |Raghav                              |amit.raghav@goldfish.team                        |01.01.0001|31.12.9999|
+|X        |9036765702|26638324|Manoj                 |Kamasani                            |manoj.kamasani@goldfish.team                     |01.01.0001|31.12.9999|
+|X        |9036818866|26697492|Tobias                |Stumpp                              |Tobias.Stumpp@goldfish.team                      |01.01.0001|31.12.9999|
+|X        |9036840753|26722017|Jörg                  |Bollhöfer                           |Jorg.Bollhofer@busch.de                          |01.01.0001|31.12.9999|
+|X        |9036882468|26768816|Soham                 |Kulkarni                            |soham.kulkarni@goldfish.team                     |01.01.0001|31.12.9999|
+|X        |9036904505|26789461|Leni                  |Landgraf                            |leni.landgraf@busch.de                           |01.01.0001|31.12.9999|
+|X        |9036904572|26789454|Nicole                |Cieslik                             |nicole.cieslik@busch.de                          |01.01.0001|31.12.9999|
+|X        |9036904607|26789436|Chantal               |Dupps                               |chantal.dupps@busch.de                           |01.01.0001|31.12.9999|
+|X        |9036960232|26849200|Navin Raj             |Munusamy                            |navin-raj.munusamy@goldfish.team                 |01.01.0001|31.12.9999|
+|X        |9036975731|26865773|Tobias                |Stumpp                              |tobias.stumpp@buschgroup.com                     |01.01.0001|31.12.9999|
+|X        |9036975757|26865775|Sonia                 |Lenczowska                          |sonia.lenczowska@buschgroup.com                  |01.01.0001|31.12.9999|
+|X        |9037049188|26947461|Stefan                |Pevec                               |Stefan.Pevec@buschgroup.com                      |01.01.0001|31.12.9999|
+|X        |9037051364|26949973|Jitesh                |Joshi                               |Jitesh.Joshi@buschgroup.com                      |01.01.0001|31.12.9999|
+|X        |9037054516|26953463|Bettina               |Obrien                              |bettina.obrien@buschgroup.com                    |01.01.0001|31.12.9999|
+|X        |9037098622|27002934|Deepali               |Goyal                               |deepali.goyal@buschgroup.com                     |01.01.0001|31.12.9999|
+|X        |9037111536|27017454|Axel                  |Umber                               |axel.umber@buschgroup.de                         |01.01.0001|31.12.9999|
+|X        |9037183809|27108246|Lukas                 |Pointinger                          |pointinger@lp-consulting.net                     |01.01.0001|31.12.9999|
+|X        |9037202481|27129612|Johannes              |Hohmann                             |Johannes.Hohmann@buschgroup.com                  |01.01.0001|31.12.9999|
+|X        |9037225322|27156007|Sai                   |Miriyabilli                         |sai.miriyabilli@buschgroup.com                   |01.01.0001|31.12.9999|
+|X        |9037240867|27173191|Frank                 |Wagner                              |Frank.Wagner@buschgroup.com                      |01.01.0001|31.12.9999|
+|X        |9037249218|27182438|Sebastian             |Launer                              |sebastian.launer@busch.de                        |01.01.0001|31.12.9999|
+|X        |9037294674|27270848|Valerio               |Steinert                            |valerio.steinert@consulting-steinert.it          |01.01.0001|31.12.9999|
+|X        |9037320092|27302534|Maximilian            |Werner                              |Maximilian.Werner@buschgroup.com                 |01.01.0001|31.12.9999|
+|X        |9037333145|27317482|Heiko                 |Eberle                              |heiko.eberle@buschgroup.com                      |01.01.0001|31.12.9999|
+|X        |9037363166|27351411|Markus                |Kaplar                              |Markus.Kapler@buschgroup.com                     |01.01.0001|31.12.9999|
+|X        |9037363679|27352003|Duval                 |Guillaume                           |guillaume.duval@buschgroup.com                   |01.01.0001|31.12.9999|
+|X        |9037394578|27388571|Steffen               |Interthal                           |steffen.interthal@buschgroup.com                 |01.01.0001|31.12.9999|
+|X        |9037422900|27422367|Marco                 |Zuerner                             |marco.zuerner@buschgroup.com                     |01.01.0001|31.12.9999|
+|X        |9037453574|27458659|Jean-Pierre           |Roschman                            |Jean-Pierre.Roschman@buschgroup.com              |01.01.0001|31.12.9999|
+|X        |9037454856|27460066|Biswabhusan           |Padhy                               |biswabhusan.padhy@buschgroup.com                 |01.01.0001|31.12.9999|
+|X        |9037473620|27483904|Annika                |Schoepflin                          |annika.schopflin@buschgroup.com                  |01.01.0001|31.12.9999|
+|X        |9037517172|27534884|Ralf                  |Decker                              |ralf.decker@buschgroup.com                       |01.01.0001|31.12.9999|
+|X        |9037541856|27564701|Lukas                 |Haas                                |lukas.haas@buschgroup.com                        |01.01.0001|31.12.9999|
+|X        |9037639294|27678438|Shubham               |Singh                               |shubham.singh@buschgroup.com                     |01.01.0001|31.12.9999|
+|X        |9037647168|27687575|Finjas                |Bross                               |finjas.bross@buschgroup.com                      |01.01.0001|31.12.9999|
+|X        |9037718895|27771967|Bahar                 |Yildiz                              |bahar.yildiz@buschgroup.com                      |01.01.0001|31.12.9999|
+|X        |9037724272|27778185|Eric                  |Harder                              |eric.harder@buschgroup.com                       |01.01.0001|31.12.9999|
+|X        |9037741850|27798919|Manoj                 |Kamasani                            |manoj.kamasani@buschgroup.com                    |01.01.0001|31.12.9999|
+|X        |9037815249|27881522|Felix                 |Radke                               |felix.radke@buschgroup.com                       |01.01.0001|31.12.9999|
+|X        |9037817536|27884200|Lisa                  |Schnurr                             |Lisa.Schnurr@busch.de                            |01.01.0001|31.12.9999|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
